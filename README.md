@@ -25,3 +25,7 @@ Bienvenido a la documentación detallada sobre APIs. Este repositorio contiene u
 Para visualizar y ejecutar los notebooks, es necesario tener instalado:
 * `Python 3.8+`
 * `Jupyter Notebook` o `Jupyter Lab`
+
+## 📜 Licencia
+
+Este proyecto está bajo la licencia MIT, lo que permite su uso y modificación con atribución adecuada.
