@@ -8,16 +8,16 @@ Bienvenido a la documentación detallada sobre APIs. Este repositorio contiene u
 
 ## 📁 Contenido de la Documentación
 
-1. 🚀 [introducción](notebooks/introduccion.ipynb)
-2. 🏷️ [Tipos de APIs](notebooks/tipos_apis.ipynb)
-3. 🔒 [Métodos HTTP](notebooks/metodos_http.ipynb)
-4. 🧮 [Formatos de Datos](notebooks/formatos_datos.ipynb)
-5. 🔐 [Autenticación y Seguridad](notebooks/autenticacion_seguridad.ipynb)
-6. 🚫 [Manejo de Errores](notebooks/manejo_errores.ipynb)
-7. ✅ [Buenas Prácticas](notebooks/buenas_practicas.ipynb)
-8. 🌐 [Webhooks](notebooks/webhooks.ipynb)
-9. 📑 [Documentación con OpenAPI](notebooks/documentacion_openapi.ipynb)
-10. 📌 [Ejemplo](notebooks/ejemplo.ipynb)
+1. 🚀 [introducción](notebooks/1_introduccion.ipynb)
+2. 🏷️ [Tipos de APIs](notebooks/2_tipos_apis.ipynb)
+3. 🔒 [Métodos HTTP](notebooks/3_metodos_http.ipynb)
+4. 🧮 [Formatos de Datos](notebooks/4_formatos_datos.ipynb)
+5. 🔐 [Autenticación y Seguridad](notebooks/5_autenticacion_seguridad.ipynb)
+6. 🚫 [Manejo de Errores](notebooks/6_manejo_errores.ipynb)
+7. ✅ [Buenas Prácticas](notebooks/7_buenas_practicas.ipynb)
+8. 🌐 [Webhooks](notebooks/8_webhooks.ipynb)
+9. 📑 [Documentación con OpenAPI](notebooks/9_documentacion_openapi.ipynb)
+10. 📌 [Ejemplo](notebooks/10_ejemplo.ipynb)
 
 
 ## 🛠️ Requisitos para ejecutar los notebooks
