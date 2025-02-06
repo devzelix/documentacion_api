@@ -24,6 +24,7 @@ Bienvenido a la documentación detallada sobre APIs. Este repositorio contiene u
 
 Para visualizar y ejecutar los notebooks, es necesario tener instalado:
 * `Python 3.8+`
+* `fastapi`
 * `Jupyter Notebook` o `Jupyter Lab`
 
 ## 📜 Licencia
